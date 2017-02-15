@@ -1,3 +1,5 @@
+This repository was cloned from - https://bitbucket.org/grimmdp/winmerge/src
+
 WinMerge 3
 ==========
 
